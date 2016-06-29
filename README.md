@@ -1,11 +1,11 @@
 #Hello World Sample Bluemix Python Web application
 
+This example was based on the following original bluemix sample: 
 ```bash
-git clone https://github.com/bluemix/bluemix-python-flask-sample
+git clone https://github.com/IBM-Bluemix/bluemix-python-flask-sample
 ```
 
 
-https://github.com/IBM-Bluemix/bluemix-python-flask-sample
 
 The hello workd sample is using [Flask microframework](http://flask.pocoo.org/) and is intented to test the Python support on [IBM's Bluemix](https://bluemix.net/) environment which is based on Cloud Foundry.
 
