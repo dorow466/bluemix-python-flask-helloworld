@@ -1,0 +1,9 @@
+---
+applications:
+- name: bluemix-python-flask-sample
+  memory: 128M
+  path: .
+  instances: 1
+  domain: w3ibm.mybluemix.net
+  host: bluemix-python-flask-sample
+  disk_quota: 1024M
