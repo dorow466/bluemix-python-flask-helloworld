@@ -1,4 +1,4 @@
-#Sample Bluemix Python Web application
+#Hello World Sample Bluemix Python Web application
 
 The hello workd sample is using [Flask microframework](http://flask.pocoo.org/) and is intented to test the Python support on [IBM's Bluemix](https://bluemix.net/) environment which is based on Cloud Foundry.
 
